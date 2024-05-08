@@ -73,13 +73,13 @@ module SR_flipflop(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level us
   assign q_bar = ~q;
 endmodule
 ```
-**RTL LOGIC FOR FLIPFLOPS**
+## RTL LOGIC FOR FLIPFLOPS
 ![de1](https://github.com/23002776/SR-FLIPFLOP-USING-CASE/assets/145742657/33a04914-be9a-4a83-8654-d5da50241738)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+## TIMING DIGRAMS FOR FLIP FLOPS
 ![de](https://github.com/23002776/SR-FLIPFLOP-USING-CASE/assets/145742657/c4831e57-aec7-4bf6-92f9-17acb00884f6)
 
-**RESULTS**
+## RESULTS
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
 
 
